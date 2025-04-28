@@ -1,5 +1,8 @@
-# Hi 👋! My name is Diego and I'm a Software Engineering Student from Colombia
+<div align="center">
+  
+# Hello, My name is Diego
 
+</div>
 <div align="center">
   <img src="./assets/web-template.png" width="200" alt="Web template" style="margin-right: 20px;"/>
   <img src="./assets/2da.png" width="400" alt="Developer illustration"/>
@@ -7,7 +10,7 @@
 </div>
 
 
-## About Me
+## 👀 About Me
 I'm a 5th semester Software Engineering student passionate about full-stack development. I enjoy building intuitive, responsive applications and am constantly expanding my technical skill set.
 
 ## 💻 Technologies & Tools
@@ -37,13 +40,6 @@ I'm a 5th semester Software Engineering student passionate about full-stack deve
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dieg0arc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-## 🌱 Currently Learning
-<img align="right" src="./assets/api-configuration.png" width="150" alt="API development" style="margin-left: 10px"/>
-
-- Advanced Spring Boot concepts
-- Microservices architecture  
-- CI/CD pipelines
-- Cloud deployment (AWS/Azure)
 
 ## 📫 Connect with me
 <div align="center">
