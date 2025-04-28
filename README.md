@@ -3,20 +3,7 @@
 # Hello, My name is Diego
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(max-width: 767px)" srcset="./assets/web-template.png" width="150">
-    <img src="./assets/web-template.png" width="200" alt="Web template" style="max-width: 100%; height: auto; margin: 10px;">
-  </picture>
-  <picture>
-    <source media="(max-width: 767px)" srcset="./assets/2da.png" width="280">
-    <img src="./assets/2da.png" width="400" alt="Developer illustration" style="max-width: 100%; height: auto; margin: 10px;">
-  </picture>
-  <picture>
-    <source media="(max-width: 767px)" srcset="./assets/setting.png" width="150">
-    <img src="./assets/setting.png" width="200" alt="Settings" style="max-width: 100%; height: auto; margin: 10px;">
-  </picture>
-</div>
+
 
 ## 👀 About Me
 I'm a 5th semester Software Engineering student passionate about full-stack development. I enjoy building intuitive, responsive applications and am constantly expanding my technical skill set.
