@@ -1,9 +1,11 @@
 # Hi 👋! My name is Diego and I'm a Software Engineering Student from Colombia
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <img src="./assets/web-template.png" width="400" alt="Developer illustration"/>
+<div align="center">
+  <img src="./assets/web-template.png" width="200" alt="Web template" style="margin-right: 20px;"/>
   <img src="./assets/2da.png" width="400" alt="Developer illustration"/>
+  <img src="./assets/setting.png" width="200" alt="Settings" style="margin-left: 20px;"/>
 </div>
+
 
 ## About Me
 I'm a 5th semester Software Engineering student passionate about full-stack development. I enjoy building intuitive, responsive applications and am constantly expanding my technical skill set.
@@ -36,21 +38,12 @@ I'm a 5th semester Software Engineering student passionate about full-stack deve
 </div>
 
 ## 🌱 Currently Learning
-<table border="0">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>Advanced Spring Boot concepts</li>
-        <li>Microservices architecture</li>
-        <li>CI/CD pipelines</li>
-        <li>Cloud deployment (AWS/Azure)</li>
-      </ul>
-    </td>
-    <td width="40%" align="right">
-      <img src="./assets/api-configuration.png" width="200" alt="API development"/>
-    </td>
-  </tr>
-</table>
+<img align="right" src="./assets/api-configuration.png" width="150" alt="API development" style="margin-left: 10px"/>
+
+- Advanced Spring Boot concepts
+- Microservices architecture  
+- CI/CD pipelines
+- Cloud deployment (AWS/Azure)
 
 ## 📫 Connect with me
 <div align="center">
