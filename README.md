@@ -1,7 +1,7 @@
 # Hi 👋! My name is Diego and I'm a Software Engineering Student from Colombia
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <img src="./assets/setting.png" width="400" alt="Developer illustration"/>
+  <img src="./assets/web-template.png" width="400" alt="Developer illustration"/>
   <img src="./assets/2da.png" width="400" alt="Developer illustration"/>
 </div>
 
