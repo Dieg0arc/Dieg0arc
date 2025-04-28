@@ -4,9 +4,9 @@
 
 </div>
 <div align="center">
-  <img src="./assets/web-template.png" width="200" alt="Web template" style="margin-right: 20px;"/>
+  <img src="./assets/web-template.png" width="250" alt="Web template" style="margin-right: 20px;"/>
   <img src="./assets/2da.png" width="400" alt="Developer illustration"/>
-  <img src="./assets/setting.png" width="200" alt="Settings" style="margin-left: 20px;"/>
+  <img src="./assets/binary-coding.png" width="250" alt="Settings" style="margin-left: 20px;"/>
 </div>
 
 
