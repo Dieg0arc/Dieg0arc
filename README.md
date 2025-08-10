@@ -6,7 +6,7 @@
 
 
 ## 👀 About Me
-I'm a 5th semester Software Engineering student passionate about full-stack development. I enjoy building intuitive, responsive applications and am constantly expanding my technical skill set.
+I'm a 6th semester Software Engineering student passionate about full-stack development. I enjoy building intuitive, responsive applications and am constantly expanding my technical skill set.
 
 ## 💻 Technologies & Tools
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
