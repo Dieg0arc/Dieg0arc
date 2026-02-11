@@ -19,6 +19,7 @@ I'm a Software Engineering student passionate about full-stack development. I en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Astro/Astro-original.svg" height="40" alt="go logo" style="margin: 5px;" />
 </div>
 
 
@@ -44,6 +45,3 @@ I'm a Software Engineering student passionate about full-stack development. I en
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dieg0arc/count.svg?" style="max-width: 100%; height: auto;" />
-</div>
