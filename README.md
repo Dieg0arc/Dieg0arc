@@ -6,7 +6,7 @@
 
 
 ## 👀 About Me
-I'm a 6th semester Software Engineering student passionate about full-stack development. I enjoy building intuitive, responsive applications and am constantly expanding my technical skill set.
+I'm a Software Engineering student passionate about full-stack development. I enjoy building intuitive, responsive applications and am constantly expanding my technical skill set.
 
 ## 💻 Technologies & Tools
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
@@ -21,11 +21,6 @@ I'm a 6th semester Software Engineering student passionate about full-stack deve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" style="margin: 5px;" />
 </div>
 
-## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dieg0arc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" style="max-width: 100%; height: auto; width: 420px;" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dieg0arc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" style="max-width: 100%; height: auto; width: 350px;" alt="languages graph" />
-</div>
 
 ## 📫 Connect with me
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
