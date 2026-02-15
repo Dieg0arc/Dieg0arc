@@ -1,11 +1,11 @@
 <div align="center">
   
-# Hello, My name is Diego
+# Hello, Hi there!
 </div>
 
 
 
-## 👀 About Me
+## 👀 I'm Diego
 I'm a Software Engineering student passionate about full-stack development. I enjoy building intuitive, responsive applications and am constantly expanding my technical skill set.
 
 ## 💻 Technologies & Tools
