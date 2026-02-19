@@ -9,9 +9,9 @@
 <hr />
 
 <p align="center">
-  I'm a Software Engineering student passionate about full-stack development.  
-  I enjoy building intuitive, responsive applications and I'm constantly expanding  
-  my technical skill set across backend, frontend, and DevOps.
+I'm a Software Engineering student focused on building scalable full-stack systems.
+I enjoy creating clean, maintainable solutions and continuously improving my skills
+across backend, frontend, and DevOps.
 </p>
 
 <hr />
