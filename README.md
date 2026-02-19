@@ -1,55 +1,59 @@
+# Hi, there!👋
+
 <div align="center">
-  
-# Hi there!
+
+### I'm Diego 👨‍💻
+
 </div>
 
+<hr />
 
+<p align="center">
+  I'm a Software Engineering student passionate about full-stack development.  
+  I enjoy building intuitive, responsive applications and I'm constantly expanding  
+  my technical skill set across backend, frontend, and DevOps.
+</p>
 
-## 👀 I'm Diego
-I'm a Software Engineering student passionate about full-stack development. I enjoy building intuitive, responsive applications and am constantly expanding my technical skill set.
+<hr />
 
 ## 💻 Technologies & Tools
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-
-  <!-- Astro visible con badge -->
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" height="35" alt="astro badge"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-161b22?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-161b22?style=for-the-badge&logo=angular&logoColor=DD0031" />
+  <img src="https://img.shields.io/badge/Vue-161b22?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Go-161b22?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Strapi-161b22?style=for-the-badge&logo=strapi&logoColor=8E75FF" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Astro-161b22?style=for-the-badge&logo=astro&logoColor=FF5D01" />
+</p>
 
 
 ## 📫 Connect with me
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
+
+<p align="center">
   <a href="https://www.instagram.com/diego_alejo_rc_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:darc16066@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="mailto:darc16066@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/diego-alejandro-ramirez-castro-1585302b1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
-<br clear="both">
+<br />
 
 <div align="center">
   <picture>
-    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/Dieg0arc/Dieg0arc/output/snake.svg" width="100%">
-    <img src="https://raw.githubusercontent.com/Dieg0arc/Dieg0arc/output/snake.svg" alt="Snake animation" style="max-width: 100%; height: auto;" />
+    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/Dieg0arc/Dieg0arc/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/Dieg0arc/Dieg0arc/output/snake.svg" alt="Snake animation" />
   </picture>
 </div>
-
