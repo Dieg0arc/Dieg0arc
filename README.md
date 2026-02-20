@@ -1,12 +1,11 @@
-# Hi, there!👋
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+there!;I'm+Diego+👨‍💻;Software+Engineering" 
+    alt="Typing SVG" 
+  />
+</p>
 
-<div align="center">
-
-### I'm Diego 👨‍💻
-
-</div>
-
-<hr />
+<hr/>
 
 <p align="center">
 I'm a Software Engineering student focused on building scalable full-stack systems.
@@ -14,7 +13,7 @@ I enjoy creating clean, maintainable solutions and continuously improving my ski
 across backend, frontend, and DevOps.
 </p>
 
-<hr />
+<hr/>
 
 ## 💻 Technologies & Tools
 
