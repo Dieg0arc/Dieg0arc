@@ -45,6 +45,7 @@ I value clean architecture, maintainability, and continuous improvement across b
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -54,6 +55,14 @@ I value clean architecture, maintainability, and continuous improvement across b
   />
 </p>
 
+<!-- SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dieg0arc/Dieg0arc/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dieg0arc" />
+</div>
 ---
 
 ## 📫 Connect With Me
@@ -72,7 +81,4 @@ I value clean architecture, maintainability, and continuous improvement across b
 
 ---
 
-<!-- SNAKE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dieg0arc/Dieg0arc/output/snake.svg" alt="Snake animation" />
-</div>
+
