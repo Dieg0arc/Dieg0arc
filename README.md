@@ -1,5 +1,3 @@
-# <!-- Profile README — Dieg0arc -->
-
 <!-- HERO -->
 <div align="center">
   <img 
@@ -8,21 +6,18 @@
   />
 </div>
 
-<br/>
 
 <!-- ABOUT -->
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHprdDZncW8wZmxka3FkZ2dwMXdiODY5cXh5eWxhY3Z1ZzYxbDJzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" />
-</div>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWppbzI0bXBkc25pZWw3eG56eThiemo0NDlnOXh0aDkxMGx5dWFoNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mojRj19FzhSXGBBqr2/giphy.gif" width="200" align="left" />
+ <br/>
 <br/>
 
-<p align="center">
-  Software Engineering student focused on building scalable full-stack systems. <br/>
-  I value clean architecture, maintainability, and continuous improvement across backend, frontend, and DevOps.
-</p>
+&nbsp;&nbsp;&nbsp;Software Engineering student focused on building scalable full-stack systems.<br/>
+&nbsp;&nbsp;&nbsp;I value clean architecture, maintainability, and continuous improvement<br/>
+&nbsp;&nbsp;&nbsp;across backend, frontend, and DevOps.
 
-<br/>
+<br clear="left"/>
+
 
 ---
 
@@ -58,6 +53,8 @@
 ---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBlYnAyMTM3dDl3YTNzdjR1anQ1aXoxZzNvamlxZHF1dG9peWk1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="50"> GitHub Analytics
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkwY29jdTRqcTVkcHY2dTR1ZTVzaDA1NGRqamRycXNnOHl2ZmdycyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="220" align="right" />
+
 
 <p align="center">
   <img 
