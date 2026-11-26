@@ -52,24 +52,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBlYnAyMTM3dDl3YTNzdjR1anQ1aXoxZzNvamlxZHF1dG9peWk1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="50"> GitHub Analytics
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkwY29jdTRqcTVkcHY2dTR1ZTVzaDA1NGRqamRycXNnOHl2ZmdycyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="220" align="right" />
-
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Dieg0arc&theme=transparent&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=cdd9e5&stroke=30363d" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<!-- SNAKE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dieg0arc/Dieg0arc/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
